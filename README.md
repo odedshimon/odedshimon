@@ -6,14 +6,15 @@ I'm the author of BruteShark a free-open-source tool that aims to provide soluti
 
 In addition, in my spare time I write Medium articles and guides about Software Architecture, Cyber, Open-Source and DevOps.
 
+## My Recent Medium Articles
 <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@contact.oded.shimon/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@contact.oded.shimon/0" alt="Recent Article 0"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@contact.oded.shimon/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@contact.oded.shimon/1" alt="Recent Article 1"></a>
 </br>
 
-
+## Let's Get In Touch!
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>Take a look at my repositories, write me, or even buy me a coffee</i>
 </p>
 
 <p align="center">
@@ -21,4 +22,5 @@ In addition, in my spare time I write Medium articles and guides about Software 
 	<a href= "https://twitter.com/OdedShimon"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg"/></a>
 	<a href= "https://www.buymeacoffee.com/OdedShimon"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/buymeacoffee.svg"/></a>
 	<a href= "https://medium.com/@contact.oded.shimon"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/medium.svg"/></a>
+	<a href= "https://www.youtube.com/channel/UCnmVoSGaiXWBtyY-BQltuKA"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg"/></a>  
 </p>
